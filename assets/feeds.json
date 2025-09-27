@@ -1,0 +1,352 @@
+[
+  {
+    "id": "hespress",
+    "name": "Hespress",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:hespress.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "yabiladi_ar",
+    "name": "Yabiladi Arabic",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:ar.yabiladi.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "lematin",
+    "name": "Le Matin",
+    "topic": "economy",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:lematin.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "telquel",
+    "name": "TelQuel",
+    "topic": "politics",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:telquel.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "h24info",
+    "name": "H24Info",
+    "topic": "morocco",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:h24info.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "le360",
+    "name": "Le360",
+    "topic": "morocco",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:le360.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "medias24",
+    "name": "Medias24",
+    "topic": "economy",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:medias24.com&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "lesiteinfo",
+    "name": "Le Site Info",
+    "topic": "morocco",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:lesiteinfo.com&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "lavieeco",
+    "name": "La Vie Eco",
+    "topic": "economy",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:lavieeco.com&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "lopinion",
+    "name": "L'Opinion",
+    "topic": "politics",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:lopinion.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "aujourdhui",
+    "name": "Aujourd'hui Le Maroc",
+    "topic": "economy",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:aujourdhui.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "lnt",
+    "name": "La Nouvelle Tribune",
+    "topic": "business",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:lnt.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "challenge",
+    "name": "Challenge",
+    "topic": "business",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:challenge.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "ledesk",
+    "name": "Le Desk",
+    "topic": "investigation",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:ledesk.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "marochebdo",
+    "name": "Maroc Hebdo",
+    "topic": "politics",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:maroc-hebdo.press.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "snrt",
+    "name": "SNRT News",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:snrtnews.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "2m",
+    "name": "2M",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:2m.ma&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "map",
+    "name": "MAP News",
+    "topic": "official",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:mapnews.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "alyaoum24",
+    "name": "Alyaoum24",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:alyaoum24.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "al3omk",
+    "name": "Al3omk",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:al3omk.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "goud",
+    "name": "Goud",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:goud.ma&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "akhbarona",
+    "name": "Akhbarona",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:akhbarona.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "hibapress",
+    "name": "Hiba Press",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:hibapress.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "febrayer",
+    "name": "Febrayer",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:febrayer.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "rue20",
+    "name": "Rue20",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:rue20.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "kech24",
+    "name": "Kech24",
+    "topic": "marrakesh",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:kech24.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "barlamane",
+    "name": "Barlamane",
+    "topic": "politics",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:barlamane.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "ahdath",
+    "name": "Al Ahdath Al Maghribia",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:ahdath.info&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "assabah",
+    "name": "Assabah",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:assabah.ma&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "aljarida24",
+    "name": "Al Jarida 24",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:aljarida24.ma&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "yabiladi_en",
+    "name": "Yabiladi English",
+    "topic": "morocco",
+    "language": "en",
+    "url": "https://news.google.com/rss/search?q=site:yabiladi.com&hl=en&gl=MA&ceid=MA:en"
+  },
+  {
+    "id": "hesport",
+    "name": "Hesport",
+    "topic": "sports",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:hesport.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "almountakhab",
+    "name": "Al Mountakhab",
+    "topic": "sports",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:almountakhab.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "le7tv",
+    "name": "Le7 TV",
+    "topic": "sports",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:le7tv.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "moroccoworldnews",
+    "name": "Morocco World News",
+    "topic": "morocco",
+    "language": "en",
+    "url": "https://news.google.com/rss/search?q=site:moroccoworldnews.com&hl=en&gl=MA&ceid=MA:en"
+  },
+  {
+    "id": "agadir24",
+    "name": "Agadir 24",
+    "topic": "regions",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:agadir24.info&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "tanja24",
+    "name": "Tanja24",
+    "topic": "regions",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:tanja24.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "tanja7",
+    "name": "Tanja7",
+    "topic": "regions",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:tanja7.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "oujdacity",
+    "name": "OujdaCity",
+    "topic": "regions",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:oujdacity.net&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "kechpresse",
+    "name": "Kech Presse",
+    "topic": "regions",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:kechpresse.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "chouftv",
+    "name": "Chouf TV",
+    "topic": "morocco",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:chouftv.ma&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "marocdiplomatique",
+    "name": "Maroc Diplomatique",
+    "topic": "sahara",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:maroc-diplomatique.net&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "leseco",
+    "name": "Les Eco",
+    "topic": "business",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:leseco.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "financesnews",
+    "name": "Finances News",
+    "topic": "business",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:financesnews.com&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "achkayen",
+    "name": "Achkayen",
+    "topic": "analysis",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:achkayen.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "alittihad",
+    "name": "Al Ittihad Al Ichtiraki",
+    "topic": "politics",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:alittihad.info&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "360sport",
+    "name": "Le360 Sport",
+    "topic": "sports",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:sport.le360.ma&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "yabiladi_fr",
+    "name": "Yabiladi Français",
+    "topic": "morocco",
+    "language": "fr",
+    "url": "https://news.google.com/rss/search?q=site:yabiladi.com&hl=fr&gl=MA&ceid=MA:fr"
+  },
+  {
+    "id": "saharazoom",
+    "name": "Sahara Zoom",
+    "topic": "sahara",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:saharazoom.com&hl=ar&gl=MA&ceid=MA:ar"
+  },
+  {
+    "id": "dakhla24",
+    "name": "Dakhla 24",
+    "topic": "sahara",
+    "language": "ar",
+    "url": "https://news.google.com/rss/search?q=site:dakhla24.com&hl=ar&gl=MA&ceid=MA:ar"
+  }
+]
